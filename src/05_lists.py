@@ -38,3 +38,5 @@ print(len(x))
 
 for num in x:
     print(num*1000)
+
+#additional ref http://zetcode.com/lang/python/lists/
